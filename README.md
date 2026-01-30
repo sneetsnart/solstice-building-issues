@@ -1,2 +1,3 @@
-# solstice-building-issues
-Issues repository for the Solstice Building modpack.
+# Solstice Building Issues
+
+Make suggestions and report issues for the Solstice Building Modpack!
